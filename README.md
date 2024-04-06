@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shake Zidhin MK</h1>
+<h1 align="center">Hi 👋, I'm Shivaraj S Shanthaiah</h1>
 <h3 align="center">A passionate Go-lang developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakezidin&label=Profile%20views&color=0e75b6&style=flat" alt="shakezidin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajashanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="Shivaraj" /> </p>
 
 - 🌱 I’m currently learning **go-lang**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
 
-- 📫 How to reach me **sinuzidin@gmail.com**
+- 📫Reach me via **shivarajshanthaiah@gmail.com**
 
-**`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
+<!--**`Digital Craftsman (Golang Developer/Freelancer/Designer)`**-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivarajshanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshkumar" />
 </p>
