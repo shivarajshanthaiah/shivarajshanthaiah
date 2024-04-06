@@ -8,6 +8,7 @@
 - 📫Reach me via **shivarajshanthaiah@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivaraj-s-s-7610372a9)
+<a href="https://www.leetcode.com/shaikh_zidhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikh_zidhin" height="30" width="40" /></a>
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 
