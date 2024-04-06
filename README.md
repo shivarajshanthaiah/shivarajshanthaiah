@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **go-lang**
 
-- 👨‍💻 All of my projects are available at [https://shakezidin.github.io/Portfolio/](https://shakezidin.github.io/Portfolio/)
-
 - 📫Reach me via **shivarajshanthaiah@gmail.com**
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
