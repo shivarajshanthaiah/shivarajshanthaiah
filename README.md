@@ -19,8 +19,7 @@ I'm a golang developer and freelancer building my version of the digital world o
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center" alt="javaScript" width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <!--  <img align="center" alt="cpp" width="auto" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />-->
-   <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <br>
-      <br>
+   <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css3" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
    
@@ -33,7 +32,7 @@ I'm a golang developer and freelancer building my version of the digital world o
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" />
+      <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" /> <br>
       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 <br>
