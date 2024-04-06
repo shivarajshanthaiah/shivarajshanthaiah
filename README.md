@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **go-lang**
 
 - 📫Reach me via **shivarajshanthaiah@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivaraj-s-s-7610372a9)
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 
@@ -49,15 +51,6 @@ I'm a golang developer and freelancer building my version of the digital world o
 </p>
 
 <br>
-<h4 align="center"> Connect with me</h4>
-<p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/shivaraj-s-s-7610372a9">
-    <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a target="_blank" href="shivarajshanthaiah@gmail.com">
-  <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-</p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
