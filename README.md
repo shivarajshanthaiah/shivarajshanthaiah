@@ -8,7 +8,7 @@ I'm a golang developer and freelancer building my version of the digital world o
    <p align="center">
     <img align="center" alt="go" width="auto" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt="java" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="javaScript" width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
    <img align="center" alt="cpp" width="auto" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css3" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,12 +18,12 @@ I'm a golang developer and freelancer building my version of the digital world o
    <h4 align="center"> 📚 Technologies</h4>
    <p align="center">
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img align="center" alt="tmux" width="auto" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+      <!--<img align="center" alt="tmux" width="auto" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />-->
       <img align="center" alt="git" width="auto" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" />
+      <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" />
 </p>
 <br>
 <h4 align="center"> 💾 Databases</h4>
