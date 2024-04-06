@@ -33,6 +33,7 @@ I'm a golang developer and freelancer building my version of the digital world o
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" />
+      <img align="center" alt="jwt" width="auto" src=" https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 <br>
 <h4 align="center"> 💾 Databases</h4>
