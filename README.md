@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivaraj S Shanthaiah</h1>
 <h3 align="center">A passionate Go-lang developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajashanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="Shivaraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajashanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="Shivaraj S Shanthaiah" /> </p>
 
 - 🌱 I’m currently learning **go-lang**
 
 - 👨‍💻 All of my projects are available at [https://shakezidin.github.io/Portfolio/](https://shakezidin.github.io/Portfolio/)
 
-- 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
-
 - 📫Reach me via **shivarajshanthaiah@gmail.com**
 
-<!--**`Digital Craftsman (Golang Developer/Freelancer/Designer)`**-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivarajshanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshkumar" />
-</p>
+**`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 
 I'm a golang developer and freelancer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
