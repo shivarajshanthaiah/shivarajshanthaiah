@@ -1,4 +1,15 @@
-# Shivaraj S Shanthaiah
+<h1 align="center">Hi 👋, I'm Shake Zidhin MK</h1>
+<h3 align="center">A passionate Go-lang developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakezidin&label=Profile%20views&color=0e75b6&style=flat" alt="shakezidin" /> </p>
+
+- 🌱 I’m currently learning **go-lang**
+
+- 👨‍💻 All of my projects are available at [https://shakezidin.github.io/Portfolio/](https://shakezidin.github.io/Portfolio/)
+
+- 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
+
+- 📫 How to reach me **sinuzidin@gmail.com**
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 <p align="left">
@@ -21,7 +32,7 @@ I'm a golang developer and freelancer building my version of the digital world o
    <h4 align="center"> 📚 Technologies</h4>
    <p align="center">
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <!--<img align="center" alt="tmux" width="auto" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />-->
+      <img align="center" alt="postman" width="auto" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img align="center" alt="git" width="auto" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
