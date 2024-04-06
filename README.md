@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=athunlal&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshkumar" />
+  <img src="https://komarev.com/ghpvc/?username=shivarajshanthaiah&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshkumar" />
 </p>
 
 I'm a golang developer and freelancer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
