@@ -28,5 +28,5 @@ I'm a golang developer and freelancer building my version of the digital world o
 
 ### 📊 Stats
 
-![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivarajShanthaiah&show_icons=true&theme=gruvbox)
+![Shivaraj S Shanthaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivarajShanthaiah&show_icons=true&theme=gruvbox)
 #
