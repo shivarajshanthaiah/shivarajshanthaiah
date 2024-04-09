@@ -56,7 +56,12 @@ I'm a golang developer and freelancer building my version of the digital world o
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 📊 Stats
+<h3 align="left">🔥   My Stats :</h3>
 
-![Shivaraj S Shanthaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivarajShanthaiah&show_icons=true&theme=gruvbox)
-#
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shivarajshanthaiah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
