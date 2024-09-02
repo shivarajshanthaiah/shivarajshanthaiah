@@ -35,6 +35,9 @@ I'm a golang developer and freelancer building my version of the digital world o
       <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the badge&logo=adobe%20photoshop&logoColor=white" /> <br>
       <br>
       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
+     <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />  
+     <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 <br>
 <h4 align="center"> 💾 Databases</h4>
