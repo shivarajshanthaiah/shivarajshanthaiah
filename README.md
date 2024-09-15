@@ -32,7 +32,7 @@ I'm a golang developer and freelancer building my version of the digital world o
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <br>
+      <br>
       <br>
       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
        <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
@@ -45,6 +45,15 @@ I'm a golang developer and freelancer building my version of the digital world o
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
      <img align="center" alt="postgreSQL" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
      <img align="center" alt="mongoDB" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+   
+ <br>
+
+ <h4 align="center"> Desing</h4>
+   <p align="center">
+   <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
    
  <br>
