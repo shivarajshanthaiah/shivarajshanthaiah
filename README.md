@@ -14,14 +14,14 @@
 I'm a golang developer and freelancer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <h4 align="center"> 📋 Languages</h4>
-   <p align="center">
+ <p align="center">
     <img align="center" alt="go" width="auto" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center" alt="javaScript" width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <!--  <img align="center" alt="cpp" width="auto" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />-->
    <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css3" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+ </p>
    
    <br>
    <h4 align="center"> 📚 Technologies</h4>
@@ -32,37 +32,39 @@ I'm a golang developer and freelancer building my version of the digital world o
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <br>
-      <br>
+    <br>
+    <br>
       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-       <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
-     <img align="center" alt="jwt" width="auto" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />  
-     <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img align="center" alt="Kubernetes" width="auto" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
+      <img align="center" alt="Docker" width="auto" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />  
+      <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 <br>
 <h4 align="center"> 💾 Databases</h4>
-   <p align="center">
+ <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img align="center" alt="postgreSQL" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-     <img align="center" alt="mongoDB" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img align="center" alt="postgreSQL" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+   <img align="center" alt="mongoDB" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
    
- <br>
+<br>
 
- <h4 align="center"> Desing</h4>
-   <p align="center">
+<h4 align="center"> Desing</h4>
+ <p align="center">
    <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img align="center" alt="Photoshop" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
+   <img align="center" alt="Figma" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img align="center" alt="Canva" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+ </p>
    
  <br>
 <h4 align="center">Platforms</h4>
  <p align="center">
    <img align="center" alt="github" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" alt="leetcode" width="auto" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+   <img align="center" alt="leetcode" width="auto" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+   <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img align="center" alt="debian" width="auto" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+   <img align="center" alt="debian" width="auto" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ </p>
 
 <br>
 
