@@ -11,7 +11,7 @@
 
 **`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
 
-I’m a passionate Golang developer and freelancer, taking on projects from scratch. From planning and designing to solving real-world challenges with code, I’m eager to grow my skills and bring ideas to life.
+I’m a driven developer and freelancer, building projects from the ground up. From conceptualizing and designing to solving real-world challenges with code, I’m eager to expand my expertise across various technologies and turn ideas into reality.
 
 <h4 align="center"> 📋 Languages</h4>
  <p align="center">
