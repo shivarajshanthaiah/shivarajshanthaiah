@@ -29,7 +29,7 @@ You can find more of my projects on my [GitHub profile](https://github.com/shiva
 
 ## Get in Touch
 
-If you'd like to connect or discuss potential collaborations, you can reach me via email at [prasanthpn68@gmail.com](mailto:shivarajshanthaiah@gmail.com). I'm open to networking, and sharing insights related to Golang and open-source development.
+If you'd like to connect or discuss potential collaborations, you can reach me via email at [shivarajshanthaiah@gmail.com](mailto:shivarajshanthaiah@gmail.com). I'm open to networking, and sharing insights related to Golang and open-source development.
 
 Let's connect and create something amazing together!
 
