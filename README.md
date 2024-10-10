@@ -19,6 +19,7 @@
 - Databases: PostgreSQL, MongoDB, Redis
 - DevOps: Docker, Kubernetes, CI/CD
 - Version Control: Git, GitHub
+- Cloud Platform: AWS
 - Testing: Unit Testing
 - Microservices : gRPC
 - Message Brokers : RabbitMQ
