@@ -14,12 +14,17 @@
 
 ## Skills
 
-- Programming Languages: Golang,C,Java
+- Programming Languages: Golang,C,Java Script
 - Web Technologies: HTML, CSS, RESTful APIs
 - Databases: PostgreSQL, MongoDB, Redis
-- DevOps: Docker, CI/CD
+- DevOps: Docker, Kubernetes, CI/CD
 - Version Control: Git, GitHub
 - Testing: Unit Testing,
 - Microservices : gRPC
+- Message Brokers : RabbitMQ
+
+## Projects
+
+You can find more of my projects on my [GitHub profile](https://github.com/shivarajshanthaiah).
 
 ###
