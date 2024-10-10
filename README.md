@@ -9,9 +9,7 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-s-s-7610372a9)
 
-**`Digital Craftsman (Golang Developer/Freelancer/Designer)`**
-
-I’m a driven developer and freelancer, building projects from the ground up. From conceptualizing and designing to solving real-world challenges with code, I’m eager to expand my expertise across various technologies and turn ideas into reality.
+I am a passionate software developer and a lifelong learner who thrives on exploring new technologies. While my expertise lies in Golang, I am continuously expanding my skills in areas like Docker, CI/CD, and PostgreSQL. I am always eager to broaden my knowledge across various tech domains and actively seek opportunities to contribute to open-source projects, keeping myself open to diverse development challenges.
 
 <h4 align="center"> 📋 Languages</h4>
  <p align="center">
