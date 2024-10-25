@@ -15,7 +15,7 @@
 ## Skills
 
 - Programming Languages: Golang,C,Java Script
-- Web Technologies: HTML, CSS, RESTful APIs
+- Web Technologies: HTML, CSS, RESTful APIs, Websockets
 - Databases: PostgreSQL, MongoDB, Redis
 - DevOps: Docker, Kubernetes, CI/CD
 - Version Control: Git, GitHub
