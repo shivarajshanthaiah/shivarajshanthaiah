@@ -14,16 +14,16 @@
 
 ## Skills
 
-- Programming Languages : Go, C, JavaScript(beginner)
-- Backend Development : Go, Gin, gRPC, REST APIs, WebSockets
-- Database and Storage : PostgreSQL, MongoDB, Redis
-- Architectural Patterns : MVC, Clean Architecture, Microservices
-- Messaging and Communication : RabbitMQ, gRPC
-- Version Control : Git, Github
-- Containerization and Orchestration : Docker, Kubernetes
-- CI/CD and Testing : CI/CD Pipelines (GitHub Actions), Unit Testing
-- Deployment : Amazon EC2, Nginx, Route53, Tmux
-- Familiar with : DSA, Linux, VS Code, Postman, Figma, DBDiagram
+- **Programming Languages:** Go, C, JavaScript(beginner)
+- **Backend Development:** Go, Gin, gRPC, REST APIs, WebSockets
+- **Database and Storage:** PostgreSQL, MongoDB, Redis
+- **Architectural Patterns:** MVC, Clean Architecture, Microservices
+- **Messaging and Communication:** RabbitMQ, gRPC
+- **Version Control:** Git, Github
+- **Containerization and Orchestration:** Docker, Kubernetes
+- **CI/CD and Testing:** CI/CD Pipelines (GitHub Actions), Unit Testing
+- **Deployment:** Amazon EC2, Nginx, Route53, Tmux
+- **Familiar with:** DSA, Linux, VS Code, Postman, Figma, DBDiagram
 
 ## Projects
 
